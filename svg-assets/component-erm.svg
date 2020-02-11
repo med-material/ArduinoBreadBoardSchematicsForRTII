@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg17105"
+   version="1.1"
+   viewBox="0 0 168.12999 82.351883"
+   height="82.351883mm"
+   width="168.12999mm">
+  <title
+     id="title17723">ERM component</title>
+  <defs
+     id="defs17099">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path16305" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata17102">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ERM component</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(408.37062,29.587746)"
+     id="layer1">
+    <path
+       id="path16158"
+       d="M 66.939548,4.3642982 24.796719,30.792868"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10.30299187;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+    <g
+       transform="translate(-31.537811,-155.55085)"
+       id="g16156">
+      <g
+         id="g16129"
+         transform="translate(-81.249936,-64.679226)">
+        <path
+           style="fill:#4e4e4e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59211802"
+           d="m -295.58287,216.26901 h 39.9674 v -25.62668 h -39.9674 z"
+           id="path9396-3-8" />
+        <path
+           style="fill:#767676;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59211802"
+           d="m -255.61547,216.26901 h 5.96851 v -25.62668 h -5.96851 z"
+           id="path9398-4-5" />
+        <path
+           style="fill:#898989;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59211802"
+           d="m -295.58287,216.26901 h 45.93591 v -1.61055 h -45.93591 z"
+           id="path9400-7-2" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.59211802"
+           d="m -295.58287,192.25288 h 45.93591 v -1.61055 h -45.93591 z"
+           id="path9402-7-7" />
+        <circle
+           r="9.4494047"
+           cy="203.25162"
+           cx="-266.61426"
+           id="path16095"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02600002;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#e53838;stroke-width:2.72600007;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -334.62145,145.19091 c 29.66692,0 31.66357,14.20217 41.42678,19.77794 9.76322,5.57577 16.03618,17.63979 23.78699,25.3906 7.75082,7.75082 23.51972,17.10526 51.85029,16.57072"
+         id="path16131" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.72600007;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -334.68174,135.85713 c 60.11407,-1.25232 51.16952,22.00823 60.48115,28.06233 9.31162,6.05409 25.12294,11.24071 41.69404,14.83555 16.57111,3.59484 21.32878,12.63714 22.44442,27.77988"
+         id="path16131-2" />
+    </g>
+  </g>
+</svg>
